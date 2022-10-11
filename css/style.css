@@ -1,0 +1,122 @@
+/*
+body{
+    font-family: 'LeagueSpartan';
+    font-weight: 300;
+}
+
+
+
+.page {
+  
+}
+.page-one__container {
+    max-width: 1140px;
+    margin: 0 auto;
+}
+.models__container{
+    max-width: 525px;
+    margin: 0 auto;
+}
+
+.models{
+    text-align: center;
+}
+
+/* ------------------------------------ */
+/*
+.title {
+    font-size: 32px;
+    line-height: 0.9;
+    font-weight: 400;
+}
+
+.subtitle {
+    font-size: 24px;
+    line-height: 1.8;
+}
+
+.desc {
+    font-size: 32px;
+    line-height: 1.5;
+}
+
+.button {
+    padding: 25px 0;
+}
+
+/* ------------------------------------ */
+/*
+.page-one {
+    background-color: #F8F8F8;
+}
+
+.page-one__content {
+}
+
+.page-one__body * {
+    display: inline-block;
+    max-width: 620px;
+}
+.page-one__subtitle {
+}
+
+.page-one__title {
+}
+.page-one__desc {
+}
+
+/* ------------------------------------ */
+/*
+.page-one__buttons {
+}
+.page-one__button {
+}
+
+.page-one__white-button {
+}
+
+/* ------------------------------------ */
+/*
+.page-one__image img{
+    display: inline-block;
+    max-width: 300px;
+}
+
+.page-one__image{
+    display: inline-block;
+}
+
+/* ------------------------------------ */
+/*
+.models {
+}
+.models__subtitle {
+}
+.models__title {
+}
+.page-title {
+}
+.models__column {
+}
+
+/* ------------------------------------ */
+/*
+
+.models__item {
+}
+.models__img {
+}
+.models__desc {
+}
+
+/* ------------------------------------ */
+/*
+
+.models__product {
+}
+.product {
+}
+.product__desc {
+}
+.product__more-info {
+}
